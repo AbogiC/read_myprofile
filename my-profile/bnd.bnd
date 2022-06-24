@@ -1,0 +1,4 @@
+Bundle-Name: my-profile
+Bundle-SymbolicName: com.sbs.myprofile
+Bundle-Version: 1.0.0
+Export-Package: com.sbs.myprofile.constants

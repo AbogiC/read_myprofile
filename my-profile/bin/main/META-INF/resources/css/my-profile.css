@@ -1,0 +1,8 @@
+.my-profile-form label.form-control {
+	border: 0;
+} 
+
+.my-profile-form label.form-control i {
+	font-size: 11px;
+	vertical-align: top;
+}
